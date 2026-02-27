@@ -1,0 +1,86 @@
+# =========================
+# Build Directories
+# =========================
+
+build/
+out/
+cmake-build-*/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# =========================
+# CMake Generated Files
+# =========================
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# =========================
+# Visual Studio Files
+# =========================
+
+.vs/
+*.sln
+*.vcxproj*
+*.vcproj*
+*.pdb
+*.ipch
+*.obj
+*.idb
+*.ilk
+*.tlog
+*.log
+*.db
+*.opendb
+
+# =========================
+# Executables & Binaries
+# =========================
+
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# =========================
+# Elseware-Zip Output Files
+# =========================
+
+*.ewz
+*.zip
+*.7z
+
+# =========================
+# Temporary / Runtime Files
+# =========================
+
+*.tmp
+*.cache
+*.bak
+*.swp
+
+# =========================
+# Logs
+# =========================
+
+logs/
+*.log
+
+# =========================
+# Config Files (Optional)
+# ==========
+
+
+test_compress/
+releases/
+manual_test/

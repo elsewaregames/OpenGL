@@ -1,0 +1,23 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+ColumnLimit: 100
+
+BreakBeforeBraces: Allman
+
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+
+SpaceBeforeParens: ControlStatements
+
+PointerAlignment: Left
+ReferenceAlignment: Left
+
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+
+SortIncludes: true
+
+Standard: c++17
