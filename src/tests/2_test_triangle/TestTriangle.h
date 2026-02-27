@@ -7,6 +7,17 @@
 #include "../../renderer/VertexArray.h"
 #include "../../renderer/VertexBuffer.h"
 
+/*
+--- PURPOSE ---
+- Validate VAO + VBO + IBO
+- Attribute binding
+- Shader parsing
+
+--- WHAT IT TESTS ---
+
+--- EXPECTED ---
+*/
+
 class TestTriangle : public Test
 {
   private:

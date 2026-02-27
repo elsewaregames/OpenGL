@@ -2,6 +2,19 @@
 
 #include "../Test.h"
 
+/*
+--- PURPOSE ---
+- Verify render loop works
+- Verify clear color changes
+- No VOA required
+
+--- WHAT IT TESTS ---
+- Renderer::clear()
+- glClearColor behaviour
+
+--- EXPECTED ---
+*/ 
+
 class TestClearColor : public Test
 {
   private:
